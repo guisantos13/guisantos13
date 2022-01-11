@@ -33,8 +33,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.s
 
 <div>
   <a href="https://github.com/guisantos13">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guisantos13&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guisantos13&layout=compact&langs_count=16&theme=omni"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=guisantos13&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guisantos13&layout=compact&langs_count=16&theme=omni"/>
 </div>
 
    <a href="https://wa.me/5531994568643" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
