@@ -1,5 +1,7 @@
 <h1 align="center"> Sejam muito bem vindos/vindas! </h1>
 
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
 <p align="left" > 
  Me Chamo <b> Guilherme Santos </b>.
 </p>
