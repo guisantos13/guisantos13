@@ -1,4 +1,5 @@
-<h1 align="center"> Welcome! </h1>
+<h1 align="center"> Welcome!</h1>
+
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
@@ -10,7 +11,7 @@
 
 <p align="left" >💼 I am passionate about technology, always studying and looking to evolve more every day;</p>
 
-**Main Languages:**
+<h3>Main Languages:</h3>
 <div style="display: inline_block"><br>
   <img align="center" alt="guisantos13-Python" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="guisantos13-Django" height="30" width="30"
@@ -22,7 +23,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.s
  
  
 
-**My personal interests:**
+<h3>My personal interests:</h3>
 <!--<img align="right" alt="GIF" src="" width="400px" /> -->
 👩‍💻 Become a professional Data Engineer, **Python**;
 
@@ -33,14 +34,17 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.s
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guisantos13&layout=compact&langs_count=16&theme=omni"/>
 </div>
 
- 
-  <h3 align="left">Connect with me:</h3>
+
+
+ ### <h3>📫 &nbsp;Connect with Me:</h3>
  <div>
     <a href=" " target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white target="_blank"></a> 
-    [![Gmail](https://img.shields.io/badge/-guidpu@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:guidpu@gmail.com)
     <a href="https://discord.com/channels/Gui Santos#6565" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white target="_blank"></a> 
     <a href="https://wa.me/5531994568643" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
-   </div>
+</div>
+
+ 
+
    
 
 <!---
