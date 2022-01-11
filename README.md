@@ -7,7 +7,7 @@
  I'm <b> Guilherme Santos </b>.
 </p>
 <p align="left" >
-💻 I'm a student at @soulcode in the <b>Data Engineering</b> course, and I'm taking the last period of the <b>Systems Analysis and Development</b> course at @estáciodesá.</p>
+💻 I'm a student at @soulcode in the <b>Data Engineering</b> course, and I'm taking the last period of the <b>Systems Analysis and Development</b> course at @estaciodesa.</p>
 
 <p align="left" >💼 I am passionate about technology, always studying and looking to evolve more every day;</p>
 
@@ -25,7 +25,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.s
 
 <h3>My personal interests:</h3>
 <!--<img align="right" alt="GIF" src="" width="400px" /> -->
-👩‍💻 Become a professional Data Engineer, **Python**;
+👩‍💻 Become a professional Data Engineer, <b>Python</b>;
 
 
 <div>
