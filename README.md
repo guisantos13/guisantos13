@@ -1,20 +1,16 @@
-<h1 align="center"> Sejam muito bem vindos/vindas! </h1>
+<h1 align="center"> Welcome! </h1>
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left" > 
- Me Chamo <b> Guilherme Santos </b>.
+ I'm <b> Guilherme Santos </b>.
 </p>
 <p align="left" >
-Atualmente moro em Itabira/MG-BR.<br />
-Sou estudante da @soulcode no curso de <b>Engenharia de Dados</b>,e estou cursando o último período do curso de <b>Análise e Desenvolvimento de Sistemas</b> na @estáciodesá.
-Minha experiência profissional foi totalmente voltada para a área de logística , até que um certo dia decidi que queria trilhar um outro rumo e mudar minha área de atuação.  
-</p>
+💻 I'm a student at @soulcode in the <b>Data Engineering</b> course, and I'm taking the last period of the <b>Systems Analysis and Development</b> course at @estáciodesá.</p>
 
+<p align="left" >💼 I am passionate about technology, always studying and looking to evolve more every day;</p>
 
-- 💼 Sou apaixonado por tecnologia e demorei um pouco para me inserir no ramo, por este motivo estou sempre estudando e procurando evoluir cada dia mais;
-
-**Principais Linguagens:**
+**Main Languages:**
 <div style="display: inline_block"><br>
   <img align="center" alt="guisantos13-Python" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="guisantos13-Django" height="30" width="30"
@@ -26,9 +22,9 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.s
  
  
 
-**Meus interesses pessoais:**
+**My personal interests:**
 <!--<img align="right" alt="GIF" src="" width="400px" /> -->
-- 👩‍💻 Me tornar um profissional na área de dados, **Python**;
+👩‍💻 Become a professional Data Engineer, **Python**;
 
 
 <div>
