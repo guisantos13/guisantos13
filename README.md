@@ -1,10 +1,10 @@
-<h1 align="center"> Welcome!</h1>
+<h1 align="center"> Bem vindo (a)!</h1>
 
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left" > 
- I'm <b> Guilherme Santos </b>.
+ Meu nome é <b> Guilherme Santos </b>.
 </p>
 <p align="left" >
 💻 Sou formado pela @soulcode no curso de <b>Data Engineering</b> , e estou cursando o ultimo período de  <b>Análise e desenvolvimento de sistemas</b> pela universidade @estaciodesa.</p>
