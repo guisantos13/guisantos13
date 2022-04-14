@@ -7,25 +7,26 @@
  I'm <b> Guilherme Santos </b>.
 </p>
 <p align="left" >
-💻 I'm a student at @soulcode in the <b>Data Engineering</b> course, and I'm taking the last period of the <b>Systems Analysis and Development</b> course at @estaciodesa.</p>
+💻 Sou formado pela @soulcode no curso de <b>Data Engineering</b> , e estou cursando o ultimo período de  <b>Análise e desenvolvimento de sistemas</b> pela universidade @estaciodesa.</p>
 
-<p align="left" >💼 I am passionate about technology, always studying and looking to evolve more every day;</p>
+<p align="left" >💼 Sou apaixonado por tecnologia, sempre estudando e buscando evoluir cada dia mais.</p>
 
-<h3>Main Languages:</h3>
+<h3>Principais linguagens e tecnologias : </h3>
 <div style="display: inline_block"><br>
   <img align="center" alt="guisantos13-Python" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="guisantos13-Django" height="30" width="30"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" />
-    <img align="center" alt="guisantos13-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="guisantos13-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="guisantos13-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="guisantos13-GCP" height="30" width="30"
+src="https://img.icons8.com/color/96/000000/google-cloud.png" />
+    <img align="center" alt="guisantos13-Mongodb" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg">
+  <img align="center" alt="guisantos13-Pandas" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg">
+   <img align="center" alt="guisantos13-Pyspark" height="30" width="40" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/apache_spark_logo_icon_170561.png">
+  <img align="center" alt="guisantos13-CSS" height="30" width="40" src="https://img.icons8.com/color/48/000000/mysql-logo.png">
  </div><br>
  
  
 
-<h3>My personal interests:</h3>
+<h3>Meus interesses pessoais:</h3>
 <!--<img align="right" alt="GIF" src="" width="400px" /> -->
-👩‍💻 Become a professional Data Engineer, <b>Python</b>;
+👩‍💻 Construir uma carreira sólida na aréa de engenharia de dados.
 
 
 <div>
@@ -36,7 +37,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.s
 
 
 
- ### <h3>📫 &nbsp;Connect with Me:</h3>
+ ### <h3>📫 &nbsp;Minhas redes:</h3>
  <div>
     <a href="https://www.linkedin.com/in/guilherme-santos13/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white target="_blank"></a> 
     <a href="https://discord.com/channels/Gui Santos#6565" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white target="_blank"></a> 
