@@ -6,10 +6,11 @@
 <p align="left" > 
 <h2> Meu nome é <b> Guilherme Santos. </b></h2>
 </p>
-<p align="left" >
-💻 Sou formado pela @soulcode no Bootcamp de <b>Engenharia de Dados</b> , e estou cursando o ultimo período de  <b>Análise e desenvolvimento de sistemas</b> pela universidade @estaciodesa.</p>
 
-<p align="left" >💼 Sou apaixonado por tecnologia, sempre estudando e buscando evoluir cada dia mais.</p>
+<img align="left" alt="grafico" height="25" width="25" src="https://user-images.githubusercontent.com/63247260/172012572-60bd259c-b1dd-4396-b56e-776efd5b4c23.png">
+Aqui você encontrará meu portifólio, com os projetos desenvolvidos na aréa de Dados.</p>
+
+
 
 <h2>Principais linguagens e tecnologias : </h2>
 <div style="display: inline_block"><br>
