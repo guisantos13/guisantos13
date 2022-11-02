@@ -16,12 +16,11 @@ Aqui você encontrará meu portifólio, com os projetos desenvolvidos na aréa d
 <div style="display: inline_block"><br>
   <img align="center" alt="guisantos13-Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="guisantos13-GCP" height="50" width="50"
-src="https://img.icons8.com/color/96/000000/google-cloud.png" />
-    <img align="center" alt="guisantos13-Mongodb" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg">
+src="https://img.icons8.com/color/96/000000/google-cloud.png" />   
   <img align="center" alt="guisantos13-Pandas" height="50" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg">
    <img align="center" alt="guisantos13-Pyspark" height="50" width="50" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/apache_spark_logo_icon_170561.png">
-  <img align="center" alt="guisantos13-CSS" height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png">
- </div><br>
+  <img align="center" alt="guisantos13-Pyspark" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
+  
  
  
 
