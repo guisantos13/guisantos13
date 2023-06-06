@@ -23,6 +23,7 @@ src="https://img.icons8.com/color/96/000000/google-cloud.png" />
   <img align="center" height="50" width="50" src="https://user-images.githubusercontent.com/63247260/204093858-e2e7d68a-0f2e-4bc9-b30d-29ce45020b0f.png">
   <img align="center" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
   <img align="center" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain-wordmark.svg">
+  <img align="center" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain-wordmark.svg">
  
 
 
