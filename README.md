@@ -21,9 +21,10 @@ src="https://img.icons8.com/color/96/000000/google-cloud.png" />
    <img align="center" alt="guisantos13-Pyspark" height="50" width="50" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/apache_spark_logo_icon_170561.png">
   <img align="center" height="50" width="50" src="https://user-images.githubusercontent.com/63247260/204093780-c383801a-0f86-4e9c-8504-8edfe508189e.png">
   <img align="center" height="50" width="50" src="https://user-images.githubusercontent.com/63247260/204093858-e2e7d68a-0f2e-4bc9-b30d-29ce45020b0f.png">
-  
+  <img align="center" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
+  <img align="center" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain-wordmark.svg">
  
- 
+
 
 <h2>Meus interesses pessoais:</h2>
 <!--<img align="right" alt="GIF" src="" width="400px" /> -->
