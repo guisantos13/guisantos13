@@ -27,7 +27,7 @@ src="https://img.icons8.com/color/96/000000/google-cloud.png" />
 
 <h2>Meus interesses pessoais:</h2>
 <!--<img align="right" alt="GIF" src="" width="400px" /> -->
-👩‍💻 Construir uma carreira sólida na aréa de engenharia de dados.
+👩‍💻 Engenharia de dados.
 
 
 <div>
