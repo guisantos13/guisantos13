@@ -11,7 +11,6 @@
 Aqui você encontrará meu portifólio, com os projetos desenvolvidos na aréa de Dados.</p>
 
 
-
 <h2>Principais linguagens e tecnologias : </h2>
 <div style="display: inline_block"><br>
   <img align="center" alt="guisantos13-Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
